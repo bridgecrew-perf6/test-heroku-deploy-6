@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "title": "Mandalorian",
+      "description": "Star Wars Odyssey",
+      "price": 12,
+      "image": "https://cdn.europosters.eu/image/750/posters/star-wars-the-mandalorian-nightfall-i103406.jpg",
+      "id": 2
+    },
+    {
+      "title": "Gravity Falls",
+      "description": "Dysney Channel",
+      "price": 15,
+      "image": "https://i.pinimg.com/originals/da/96/85/da968589f286eae3bd43c2cc14ae0371.jpg",
+      "id": 3
+    },
+    {
+      "title": "Mickey Mouse",
+      "description": "Disney Channel",
+      "price": 7.16,
+      "image": "https://cdn.europosters.eu/image/750/posters/mickey-mouse-classic-i1428.jpg",
+      "id": 4
+    },
+    {
+      "title": "Duck Tales",
+      "description": "Disney Channel",
+      "price": 6.46,
+      "image": "https://64.media.tumblr.com/cb475885aad4fcdd12be5941029727c5/tumblr_oigtz9wJwu1rnvm7bo1_1280.jpg",
+      "id": 5
+    },
+    {
+      "title": "Chip 'n Dale Rescue Rangers ",
+      "description": "Disney Channel",
+      "price": 22.51,
+      "image": "https://preview.redd.it/vry5498uw2w81.jpg?width=640&crop=smart&auto=webp&s=0651288d0b50c1ecba79e5690754e533e0de2115",
+      "id": 6
+    },
+    {
+      "title": "d",
+      "description": "d",
+      "price": 2,
+      "image": "d",
+      "id": 7
+    }
+  ]
+}
